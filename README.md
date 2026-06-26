@@ -15,8 +15,8 @@ I’m a **Computer Science student** 🎓 and an aspiring **AI/ML Engineer** �
 - **Other Tools:** Git & GitHub 🐙, VS Code, Docker 🐳  
 
 ## How to reach me  
-- LinkedIn: [Sohaib Shahzad](www.linkedin.com/in/sohaibshahzad)
-- Kaggle: [Sohaib Shahzad](www.kaggle.com/sohaibdev)
+- LinkedIn: (www.linkedin.com/in/sohaibshahzad)
+- Kaggle: (www.kaggle.com/sohaibdev)
 - Email: sohaibshahzad59@gmail.com 
 
 ✨ I’m always learning, experimenting, and building **intelligent systems to make technology smarter and life easier** 🚀.
