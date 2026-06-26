@@ -17,7 +17,6 @@ I'm a **Computer Science student** and aspiring **AI/ML Engineer** passionate ab
 - 📫 Email: **sohaibshahzad59@gmail.com**
 - 🔗 LinkedIn: **[Sohaib Shahzad](https://www.linkedin.com/in/sohaibshahzad)**
 - 🏆 Kaggle: **[sohaibdev](https://www.kaggle.com/sohaibdev)**
-- 🌍 Portfolio: **[Add your live portfolio link here]**
 
 ---
 
